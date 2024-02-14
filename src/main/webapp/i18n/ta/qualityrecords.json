@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "qualityrecords": {
+      "home": {
+        "title": "Qualityrecords",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Qualityrecords-ஐ உருவாக்கு",
+        "createOrEditLabel": "Qualityrecords -ஐ மாற்று (அ) உருவாக்கு",
+        "notFound": "No Qualityrecords found"
+      },
+      "created": "Qualityrecords புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+      "updated": "Qualityrecords மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+      "deleted": "A Qualityrecords நீக்கப்பட்டது, அடையாளம {{ param }}",
+      "delete": {
+        "question": "நீக்குவதற்கு உறுதி செய் Qualityrecords {{ id }}?"
+      },
+      "detail": {
+        "title": "Qualityrecords"
+      },
+      "id": "ID",
+      "supplier": "Supplier",
+      "test2": "Test 2"
+    }
+  }
+}

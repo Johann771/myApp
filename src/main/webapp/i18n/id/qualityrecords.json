@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "qualityrecords": {
+      "home": {
+        "title": "Qualityrecords",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Buat Qualityrecords baru",
+        "createOrEditLabel": "Buat atau edit Qualityrecords",
+        "notFound": "No Qualityrecords found"
+      },
+      "created": "Qualityrecords dengan id {{ param }} telah dibuat",
+      "updated": "Qualityrecords dengan id {{ param }} telah diperbaharui",
+      "deleted": "Qualityrecords dengan id {{ param }} telah dihapus",
+      "delete": {
+        "question": "Apakah anda yakin ingin menghapus Qualityrecords {{ id }}?"
+      },
+      "detail": {
+        "title": "Qualityrecords"
+      },
+      "id": "ID",
+      "supplier": "Supplier",
+      "test2": "Test 2"
+    }
+  }
+}

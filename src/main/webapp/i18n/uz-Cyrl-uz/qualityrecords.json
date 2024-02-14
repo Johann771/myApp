@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "qualityrecords": {
+      "home": {
+        "title": "Qualityrecords",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Янги Qualityrecords қўшиш",
+        "createOrEditLabel": "Qualityrecordsни таҳрирлаш",
+        "notFound": "No Qualityrecords found"
+      },
+      "created": "Qualityrecords {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Qualityrecords сақланди.",
+      "deleted": "{{ param }}- Qualityrecords ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Qualityrecordsни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Qualityrecords"
+      },
+      "id": "ID",
+      "supplier": "Supplier",
+      "test2": "Test 2"
+    }
+  }
+}

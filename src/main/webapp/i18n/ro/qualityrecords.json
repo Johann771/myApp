@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "qualityrecords": {
+      "home": {
+        "title": "Qualityrecords",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Creeare o nouă entitate Qualityrecords",
+        "createOrEditLabel": "Creeare sau editare Qualityrecords",
+        "notFound": "No Qualityrecords found"
+      },
+      "created": "A fost creată o nouă entitate Qualityrecords cu identificatorul {{ param }}",
+      "updated": "Qualityrecords cu identificatorul {{ param }} a fost actualizată",
+      "deleted": "Qualityrecords cu identificatorul {{ param }} a fost ștearsă",
+      "delete": {
+        "question": "Sunteți sigur că doriți să ștergeți Qualityrecords {{ id }}?"
+      },
+      "detail": {
+        "title": "Qualityrecords"
+      },
+      "id": "ID",
+      "supplier": "Supplier",
+      "test2": "Test 2"
+    }
+  }
+}

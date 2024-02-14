@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "qualityrecords": {
+      "home": {
+        "title": "Qualityrecords",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Dodaj Qualityrecords",
+        "createOrEditLabel": "Dodaj lub edytuj: Qualityrecords",
+        "notFound": "No Qualityrecords found"
+      },
+      "created": "Utworzono nowy obiekt typu Qualityrecords z identyfikatorem {{ param }}",
+      "updated": "Uaktualniono obiekt typu Qualityrecords z identyfikatorem {{ param }}",
+      "deleted": "Usunięto obiekt typu Qualityrecords z identyfikatorem {{ param }}",
+      "delete": {
+        "question": "Czy na pewno chcesz usunąć Qualityrecords {{ id }}?"
+      },
+      "detail": {
+        "title": "Qualityrecords"
+      },
+      "id": "ID",
+      "supplier": "Supplier",
+      "test2": "Test 2"
+    }
+  }
+}

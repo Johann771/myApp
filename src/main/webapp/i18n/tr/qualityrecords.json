@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "qualityrecords": {
+      "home": {
+        "title": "Qualityrecords",
+        "refreshListLabel": "Listeyi yenile",
+        "createLabel": "Yeni Qualityrecords ekle",
+        "createOrEditLabel": "Yeni Qualityrecords ekle veya guncelle",
+        "notFound": "Qualityrecords kaydi bulunamadi"
+      },
+      "created": "{{ param }} ID ile bir Qualityrecords eklendi",
+      "updated": "{{ param }} nolu Qualityrecords guncellendi",
+      "deleted": "{{ param }} nolu Qualityrecords silindi",
+      "delete": {
+        "question": "{{ id }} nolu Qualityrecords silinecek. Devem etmek istiyor musunuz?"
+      },
+      "detail": {
+        "title": "Qualityrecords"
+      },
+      "id": "ID",
+      "supplier": "Supplier",
+      "test2": "Test 2"
+    }
+  }
+}

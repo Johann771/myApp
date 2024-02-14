@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "qualityrecords": {
+      "home": {
+        "title": "Qualityrecords",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Thêm mới một Qualityrecords",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Qualityrecords",
+        "notFound": "No Qualityrecords found"
+      },
+      "created": "Một Qualityrecords mới được tạo với định danh {{ param }}",
+      "updated": "Một Qualityrecords cập nhật với định danh {{ param }}",
+      "deleted": "Một Qualityrecords đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Qualityrecords {{ id }}?"
+      },
+      "detail": {
+        "title": "Qualityrecords"
+      },
+      "id": "ID",
+      "supplier": "Supplier",
+      "test2": "Test 2"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "qualityrecords": {
+      "home": {
+        "title": "Qualityrecords",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "สร้าง Qualityrecords",
+        "createOrEditLabel": "สร้างหรือแก้ไข Qualityrecords",
+        "notFound": "No Qualityrecords found"
+      },
+      "created": "Qualityrecords ถูกสร้างด้วย {{ param }}",
+      "updated": "Qualityrecords ถูกแก้ไขด้วย {{ param }}",
+      "deleted": "Qualityrecords ถูกลบด้วย {{ param }}",
+      "delete": {
+        "question": "คุณต้องการที่จะลบ Qualityrecords {{ id }}?"
+      },
+      "detail": {
+        "title": "Qualityrecords"
+      },
+      "id": "ID",
+      "supplier": "Supplier",
+      "test2": "Test 2"
+    }
+  }
+}

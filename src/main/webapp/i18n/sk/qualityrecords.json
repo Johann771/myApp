@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "qualityrecords": {
+      "home": {
+        "title": "Qualityrecords",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Pridať Qualityrecords",
+        "createOrEditLabel": "Pridať alebo upraviť Qualityrecords",
+        "notFound": "No Qualityrecords found"
+      },
+      "created": "Bol vytvorený potomok entity Qualityrecords s identifikátorom {{ param }}",
+      "updated": "Potomok entity Qualityrecords s identifikátorom {{ param }} bol upravený.",
+      "deleted": "Potomok entity Qualityrecords s identifikátorom {{ param }} bol vymazaný.",
+      "delete": {
+        "question": "Ste si istý, že chcete vymazať Qualityrecords {{ id }}?"
+      },
+      "detail": {
+        "title": "Qualityrecords"
+      },
+      "id": "ID",
+      "supplier": "Supplier",
+      "test2": "Test 2"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "qualityrecords": {
+      "home": {
+        "title": "Qualityrecords",
+        "refreshListLabel": "Värskenda nimekirja",
+        "createLabel": "Lisa uus Qualityrecords",
+        "createOrEditLabel": "Lisa või muuda Qualityrecords",
+        "notFound": "Ei leitud ühtegi Qualityrecords"
+      },
+      "created": "Uus Qualityrecords on loodud identifikaatoriga {{ param }}",
+      "updated": "Qualityrecords identifikaatoriga {{ param }} on muudetud",
+      "deleted": "Qualityrecords identifikaatoriga {{ param }} on kustutatud",
+      "delete": {
+        "question": "Kas olete kindel, et soovite kustutada Qualityrecords {{ id }}?"
+      },
+      "detail": {
+        "title": "Qualityrecords"
+      },
+      "id": "ID",
+      "supplier": "Supplier",
+      "test2": "Test 2"
+    }
+  }
+}

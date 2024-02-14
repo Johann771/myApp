@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "qualityrecords": {
+      "home": {
+        "title": "Qualityrecords",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Skapa en ny Qualityrecords",
+        "createOrEditLabel": "Skapa eller ändra en Qualityrecords",
+        "notFound": "No Qualityrecords found"
+      },
+      "created": "En ny Qualityrecords är skapad med id {{ param }}",
+      "updated": "En Qualityrecords är uppdaterad med id  {{ param }}",
+      "deleted": "En Qualityrecords är borttagen med id  {{ param }}",
+      "delete": {
+        "question": "Är du säker på att du vill ta bort Qualityrecords {{ id }}?"
+      },
+      "detail": {
+        "title": "Qualityrecords"
+      },
+      "id": "ID",
+      "supplier": "Supplier",
+      "test2": "Test 2"
+    }
+  }
+}

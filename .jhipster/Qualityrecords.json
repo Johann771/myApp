@@ -1,0 +1,26 @@
+{
+  "annotations": {
+    "changelogDate": "20240213161020"
+  },
+  "dto": "no",
+  "entityTableName": "qualityrecords",
+  "fields": [
+    {
+      "fieldName": "supplier",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "test2",
+      "fieldType": "Integer",
+      "fieldValidateRules": []
+    }
+  ],
+  "jpaMetamodelFiltering": false,
+  "name": "Qualityrecords",
+  "pagination": "pagination",
+  "readOnly": false,
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "serviceClass"
+}

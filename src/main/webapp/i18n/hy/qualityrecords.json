@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "qualityrecords": {
+      "home": {
+        "title": "Qualityrecords",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Ստեղծել նոր Qualityrecords",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Qualityrecords",
+        "notFound": "No Qualityrecords found"
+      },
+      "created": "Նոր Qualityrecords ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Qualityrecords թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Qualityrecords հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Qualityrecords {{ id }}?"
+      },
+      "detail": {
+        "title": "Qualityrecords"
+      },
+      "id": "ID",
+      "supplier": "Supplier",
+      "test2": "Test 2"
+    }
+  }
+}

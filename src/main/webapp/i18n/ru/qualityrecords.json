@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "qualityrecords": {
+      "home": {
+        "title": "Qualityrecords",
+        "refreshListLabel": "Обновить список",
+        "createLabel": "Создать новый Qualityrecords",
+        "createOrEditLabel": "Создать или отредактировать Qualityrecords",
+        "notFound": "Qualityrecords не найдено"
+      },
+      "created": "Новый Qualityrecords создан с идентификатором {{ param }}",
+      "updated": "Qualityrecords обновлен с идентификатором {{ param }}",
+      "deleted": "Qualityrecords удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Qualityrecords {{ id }}?"
+      },
+      "detail": {
+        "title": "Qualityrecords"
+      },
+      "id": "ID",
+      "supplier": "Supplier",
+      "test2": "Test 2"
+    }
+  }
+}

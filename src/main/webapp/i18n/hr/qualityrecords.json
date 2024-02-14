@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "qualityrecords": {
+      "home": {
+        "title": "Qualityrecords",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Kreirati Qualityrecords",
+        "createOrEditLabel": "Kreirati ili urediti Qualityrecords",
+        "notFound": "Nije nađeno Qualityrecords"
+      },
+      "created": "Kreiran je Qualityrecords sa identifikatorom {{ param }}",
+      "updated": "Ažuriran je Qualityrecords sa identifikatorom {{ param }}",
+      "deleted": "Obrisan je Qualityrecords sa identifikatorom {{ param }}",
+      "delete": {
+        "question": "Da li ste sigurni da želite obrisati Qualityrecords {{ id }}?"
+      },
+      "detail": {
+        "title": "Qualityrecords"
+      },
+      "id": "ID",
+      "supplier": "Supplier",
+      "test2": "Test 2"
+    }
+  }
+}

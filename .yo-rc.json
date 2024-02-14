@@ -19,7 +19,7 @@
     "enableHibernateCache": null,
     "enableSwaggerCodegen": false,
     "enableTranslation": true,
-    "entities": [],
+    "entities": ["Qualityrecords"],
     "feignClient": false,
     "gradleEnterpriseHost": null,
     "jhipsterVersion": "8.1.0",
@@ -76,6 +76,7 @@
       "vi",
       "kr-Latn-kr"
     ],
+    "lastLiquibaseTimestamp": 1707840620000,
     "messageBroker": false,
     "microfrontend": null,
     "microfrontends": [],

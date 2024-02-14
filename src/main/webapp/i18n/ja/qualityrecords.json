@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "qualityrecords": {
+      "home": {
+        "title": "Qualityrecords",
+        "refreshListLabel": "リストの更新",
+        "createLabel": "Qualityrecords の作成",
+        "createOrEditLabel": "Qualityrecordsの作成または編集",
+        "notFound": "Qualityrecords が見つかりません。"
+      },
+      "created": "新しい Qualityrecords がID {{ param }} で作成されました。",
+      "updated": "ID {{ param }} の Qualityrecords が更新されました。",
+      "deleted": "ID {{ param }} の Qualityrecords が削除されました。",
+      "delete": {
+        "question": "Qualityrecords {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Qualityrecords"
+      },
+      "id": "ID",
+      "supplier": "Supplier",
+      "test2": "Test 2"
+    }
+  }
+}

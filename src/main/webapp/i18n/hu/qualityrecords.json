@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "qualityrecords": {
+      "home": {
+        "title": "Qualityrecords",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Egy új Qualityrecords létrehozása",
+        "createOrEditLabel": "Hozzon létre, vagy módosítson Qualityrecordst",
+        "notFound": "No Qualityrecords found"
+      },
+      "created": "Egy új Qualityrecords lett létrehozva {{ param }} azonosítóval",
+      "updated": "A Qualityrecords módosítva lett {{ param }} azonosítóval",
+      "deleted": "A Qualityrecords törölve lett {{ param }} azonosítóval",
+      "delete": {
+        "question": "Biztos benne, hogy törölni szeretné az Qualityrecordst {{ id }} azonosítóval?"
+      },
+      "detail": {
+        "title": "Qualityrecords"
+      },
+      "id": "ID",
+      "supplier": "Supplier",
+      "test2": "Test 2"
+    }
+  }
+}

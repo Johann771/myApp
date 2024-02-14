@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "qualityrecords": {
+      "home": {
+        "title": "Qualityrecords",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "नवीन Qualityrecords तयार करा",
+        "createOrEditLabel": "Qualityrecords तयार किंवा संपादित करा",
+        "notFound": "No Qualityrecords found"
+      },
+      "created": "Qualityrecords [identifier: {{ param }}] तयार आहे",
+      "updated": "Qualityrecords [identifier: {{ param }}] सुधारित केले आहे",
+      "deleted": "Qualityrecords [identifier: {{ param }}] हटविले आहे",
+      "delete": {
+        "question": "Qualityrecords [id: {{ id }}] काढून टाकण्याबाबत पुष्टी?"
+      },
+      "detail": {
+        "title": "Qualityrecords"
+      },
+      "id": "ID",
+      "supplier": "Supplier",
+      "test2": "Test 2"
+    }
+  }
+}

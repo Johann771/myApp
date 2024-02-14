@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "qualityrecords": {
+      "home": {
+        "title": "Qualityrecords",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Maak een nieuwe Qualityrecords",
+        "createOrEditLabel": "Maak of wijzig een Qualityrecords",
+        "notFound": "No Qualityrecords found"
+      },
+      "created": "A new Qualityrecords is created with identifier {{ param }}",
+      "updated": "A Qualityrecords is updated with identifier {{ param }}",
+      "deleted": "A Qualityrecords is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Bent u zeker dat u Qualityrecords {{ id }} wilt verwijderen?"
+      },
+      "detail": {
+        "title": "Qualityrecords"
+      },
+      "id": "ID",
+      "supplier": "Supplier",
+      "test2": "Test 2"
+    }
+  }
+}

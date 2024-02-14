@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "qualityrecords": {
+      "home": {
+        "title": "Qualityrecords",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Qualityrecords",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Qualityrecords",
+        "notFound": "No Qualityrecords found"
+      },
+      "created": "Ένα νέο Qualityrecords έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Qualityrecords έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Qualityrecords έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Qualityrecords {{ id }};"
+      },
+      "detail": {
+        "title": "Qualityrecords"
+      },
+      "id": "ID",
+      "supplier": "Supplier",
+      "test2": "Test 2"
+    }
+  }
+}
